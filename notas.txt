@@ -1,0 +1,10 @@
+Hecho
+estructura proyecto
+multer y algo de validaciones
+
+Hacer
+MVC
+Conexion a DB
+BD
+Enrutadores
+CRUD
